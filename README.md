@@ -1,4 +1,7 @@
 # Ecole Session
+경성대학교 에꼴프로젝트 강의에서 Spring Session 로그인을 구현한 레포지토리 입니다.
+
+<br>
 
 ## Folder structure 
 
@@ -35,7 +38,11 @@ com
 
 <br>
 
-## 10/30 강의 수정 사항
+## 10/30 강의
+
+<details>
+<summary>수정 사항</summary>
+<br>
 
 1. `index.html` -> `test.html` 로 이름 변경
 
